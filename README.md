@@ -1,5 +1,7 @@
 # Code summarization tasks
 
+The following page contains the papers on Source Code Summarization problem that I found interesting and related to my thesis. Every entry contains a brief description of the paper task, solution and evaluation techniques.
+
 ## Table of Contents
 
 * [Surveys](#surveys)
